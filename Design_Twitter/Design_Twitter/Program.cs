@@ -1,11 +1,9 @@
-﻿
-
 public class Twitter
 {
     private class Tweet
     {
-        public int Id { get; }
-        public DateTime Timestamp { get; }
+        public int Id { get; } // identifiant de tweet 
+        public DateTime Timestamp { get; } // la date à la quelle le tweet à été créé
 
         public Tweet(int id)
         {
@@ -23,14 +21,16 @@ public class Twitter
         userFollows = new Dictionary<int, HashSet<int>>();
     }
 
+    // cette fonction permet à utilisateur de publier un nouveau tweet
     public void PostTweet(int userId, int tweetId)
     {
         if (!userTweets.ContainsKey(userId))
         {
             userTweets[userId] = new List<Tweet>();
         }
-        userTweets[userId].Add(new Tweet(tweetId));
+        userTweets[userId].Add(new Tweet(tweetId)); // Ajout du nouveau tweet à la liste de l'utilisateur
     }
+
 
     public IList<int> GetNewsFeed(int userId)
     {
@@ -77,7 +77,7 @@ public class Twitter
     }
 }
 
-// Exemple d'utilisation
+
 public class Program
 {
     public static void Main(string[] args)
@@ -85,17 +85,17 @@ public class Program
         Twitter twitter = new Twitter();
 
         twitter.PostTweet(1, 5);
-        Console.WriteLine(string.Join(",", twitter.GetNewsFeed(1)));  // [5]
+        Console.WriteLine(string.Join(",", twitter.GetNewsFeed(1)));  
 
         twitter.Follow(1, 2);
         twitter.PostTweet(2, 6);
-        Console.WriteLine(string.Join(",", twitter.GetNewsFeed(1)));  // [6, 5]
+        Console.WriteLine(string.Join(",", twitter.GetNewsFeed(1))); 
 
         twitter.Unfollow(1, 2);
-        Console.WriteLine(string.Join(",", twitter.GetNewsFeed(1)));  // [5]
+        Console.WriteLine(string.Join(",", twitter.GetNewsFeed(1)));  
 
         twitter.Follow(1, 2);
         twitter.PostTweet(1, 3);
-        Console.WriteLine(string.Join(",", twitter.GetNewsFeed(2)));  // []
+        Console.WriteLine(string.Join(",", twitter.GetNewsFeed(2))); 
     }
 }
