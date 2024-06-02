@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\bin\Debug\net8.0\Sort_stack.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\bin\Debug\net8.0\Sort_stack.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\bin\Debug\net8.0\Sort_stack.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\bin\Debug\net8.0\Sort_stack.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\bin\Debug\net8.0\Sort_stack.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\Sort_stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\Sort_stack.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\Sort_stack.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\Sort_stack.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\Sort_stack.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\refint\Sort_stack.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\Sort_stack.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\Sort_stack.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Sort_stack\Sort_stack\obj\Debug\net8.0\ref\Sort_stack.dll
