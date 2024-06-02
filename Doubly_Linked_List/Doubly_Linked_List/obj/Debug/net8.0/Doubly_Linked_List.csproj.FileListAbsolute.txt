@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\bin\Debug\net8.0\Doubly_Linked_List.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\bin\Debug\net8.0\Doubly_Linked_List.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\bin\Debug\net8.0\Doubly_Linked_List.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\bin\Debug\net8.0\Doubly_Linked_List.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\bin\Debug\net8.0\Doubly_Linked_List.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\Doubly_Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\Doubly_Linked_List.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\Doubly_Linked_List.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\Doubly_Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\Doubly_Linked_List.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\refint\Doubly_Linked_List.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\Doubly_Linked_List.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\Doubly_Linked_List.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Doubly_Linked_List\Doubly_Linked_List\obj\Debug\net8.0\ref\Doubly_Linked_List.dll
