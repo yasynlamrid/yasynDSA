@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\bin\Debug\net8.0\Queue_with_Second_Half.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\bin\Debug\net8.0\Queue_with_Second_Half.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\bin\Debug\net8.0\Queue_with_Second_Half.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\bin\Debug\net8.0\Queue_with_Second_Half.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\bin\Debug\net8.0\Queue_with_Second_Half.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\Queue_with_Second_Half.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\Queue_with_Second_Half.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\Queue_with_Second_Half.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\Queue_with_Second_Half.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\Queue_with_Second_Half.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\refint\Queue_with_Second_Half.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\Queue_with_Second_Half.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\Queue_with_Second_Half.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Queue_with_Second_Half\Queue_with_Second_Half\obj\Debug\net8.0\ref\Queue_with_Second_Half.dll
