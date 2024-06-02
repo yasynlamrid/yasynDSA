@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\bin\Debug\net8.0\Reverse_Stack.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\bin\Debug\net8.0\Reverse_Stack.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\bin\Debug\net8.0\Reverse_Stack.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\bin\Debug\net8.0\Reverse_Stack.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\bin\Debug\net8.0\Reverse_Stack.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\Reverse_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\Reverse_Stack.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\Reverse_Stack.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\Reverse_Stack.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\Reverse_Stack.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\refint\Reverse_Stack.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\Reverse_Stack.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\Reverse_Stack.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Reverse_Stack\Reverse_Stack\obj\Debug\net8.0\ref\Reverse_Stack.dll
