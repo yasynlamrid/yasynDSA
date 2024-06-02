@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\bin\Debug\net8.0\Number_of_occurrence.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\bin\Debug\net8.0\Number_of_occurrence.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\bin\Debug\net8.0\Number_of_occurrence.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\bin\Debug\net8.0\Number_of_occurrence.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\bin\Debug\net8.0\Number_of_occurrence.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\Number_of_occurrence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\Number_of_occurrence.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\Number_of_occurrence.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\Number_of_occurrence.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\Number_of_occurrence.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\refint\Number_of_occurrence.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\Number_of_occurrence.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\Number_of_occurrence.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Number_of_occurrence\Number_of_occurrence\obj\Debug\net8.0\ref\Number_of_occurrence.dll
