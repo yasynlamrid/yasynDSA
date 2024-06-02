@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\bin\Debug\net8.0\Design_Twitter.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\bin\Debug\net8.0\Design_Twitter.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\bin\Debug\net8.0\Design_Twitter.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\bin\Debug\net8.0\Design_Twitter.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\bin\Debug\net8.0\Design_Twitter.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\Design_Twitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\Design_Twitter.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\Design_Twitter.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\Design_Twitter.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\Design_Twitter.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\refint\Design_Twitter.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\Design_Twitter.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\Design_Twitter.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Design_Twitter\Design_Twitter\obj\Debug\net8.0\ref\Design_Twitter.dll
