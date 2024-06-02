@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Circular_Tour/1.0.0": {
+        "runtime": {
+          "Circular_Tour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Circular_Tour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

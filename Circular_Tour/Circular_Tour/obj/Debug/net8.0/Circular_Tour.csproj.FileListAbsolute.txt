@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\bin\Debug\net8.0\Circular_Tour.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\bin\Debug\net8.0\Circular_Tour.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\bin\Debug\net8.0\Circular_Tour.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\bin\Debug\net8.0\Circular_Tour.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\bin\Debug\net8.0\Circular_Tour.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\Circular_Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\Circular_Tour.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\Circular_Tour.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\Circular_Tour.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\Circular_Tour.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\refint\Circular_Tour.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\Circular_Tour.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\Circular_Tour.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Circular_Tour\Circular_Tour\obj\Debug\net8.0\ref\Circular_Tour.dll
