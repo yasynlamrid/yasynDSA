@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\bin\Debug\net8.0\nearly_Sorted.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\bin\Debug\net8.0\nearly_Sorted.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\bin\Debug\net8.0\nearly_Sorted.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\bin\Debug\net8.0\nearly_Sorted.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\bin\Debug\net8.0\nearly_Sorted.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\nearly_Sorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\nearly_Sorted.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\nearly_Sorted.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\nearly_Sorted.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\nearly_Sorted.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\refint\nearly_Sorted.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\nearly_Sorted.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\nearly_Sorted.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\nearly_Sorted\nearly_Sorted\obj\Debug\net8.0\ref\nearly_Sorted.dll
