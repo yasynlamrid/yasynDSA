@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\bin\Debug\net8.0\largest_elements.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\bin\Debug\net8.0\largest_elements.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\bin\Debug\net8.0\largest_elements.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\bin\Debug\net8.0\largest_elements.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\bin\Debug\net8.0\largest_elements.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\largest_elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\largest_elements.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\largest_elements.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\largest_elements.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\largest_elements.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\refint\largest_elements.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\largest_elements.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\largest_elements.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\largest_elements\largest_elements\obj\Debug\net8.0\ref\largest_elements.dll
