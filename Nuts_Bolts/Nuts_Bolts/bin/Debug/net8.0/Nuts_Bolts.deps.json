@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nuts_Bolts/1.0.0": {
+        "runtime": {
+          "Nuts_Bolts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nuts_Bolts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

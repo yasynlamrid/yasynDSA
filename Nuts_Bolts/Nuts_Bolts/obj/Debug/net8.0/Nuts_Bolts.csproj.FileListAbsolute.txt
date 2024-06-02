@@ -1,0 +1,14 @@
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\bin\Debug\net8.0\Nuts_Bolts.exe
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\bin\Debug\net8.0\Nuts_Bolts.deps.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\bin\Debug\net8.0\Nuts_Bolts.runtimeconfig.json
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\bin\Debug\net8.0\Nuts_Bolts.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\bin\Debug\net8.0\Nuts_Bolts.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\Nuts_Bolts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\Nuts_Bolts.AssemblyInfoInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\Nuts_Bolts.AssemblyInfo.cs
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\Nuts_Bolts.csproj.CoreCompileInputs.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\Nuts_Bolts.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\refint\Nuts_Bolts.dll
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\Nuts_Bolts.pdb
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\Nuts_Bolts.genruntimeconfig.cache
+C:\Users\yasyn\Desktop\Algorithme et structure des données\Exercices\Nuts_Bolts\Nuts_Bolts\obj\Debug\net8.0\ref\Nuts_Bolts.dll
